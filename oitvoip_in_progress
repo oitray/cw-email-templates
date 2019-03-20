@@ -1,0 +1,131 @@
+<!-- 
+First Name: OITVOIP
+Last Name: Support Team
+Email Address: support@oitvoip.com
+
+Subject: Ticket #[srnumber]/ We have your request regarding [srsummary]
+-->
+
+<html dir="ltr">
+<head>
+	<title></title>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; background: url(&quot;http://www.1usm.net/templates/theme904/images/body/wrapper-bg.jpg&quot;) #d9d9d9; padding-bottom: 20px; padding-top: 20px; padding-left: 0px; line-height: 135%; padding-right: 0px" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top: #bbb 1px solid; border-right: #bbb 1px solid; border-bottom: #bbb 1px solid; border-left: #bbb 1px solid; background-color: #ffffff" width="90%">
+				<tbody>
+					<tr>
+						<td>
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td height="150" style="border-right: #ddd 1px solid; background: #ededed; border-bottom: #ddd 1px solid; padding-bottom: 20px; padding-top: 20px; padding-left: 20px; padding-right: 20px" width="60%">
+									<div style="margin: 0px"><img alt="OITVOIP Logo" border="0" height="112" hspace="0" src="https://www.oitvoip.com/images/Site_Logo.png" style="width: 325px; height: 112px; margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; border: 0px solid black" vspace="0" width="325" /></div>
+									</td>
+									<td height="150" style="vertical-align: middle; background: #eb2b17; border-bottom: #004396 1px solid; padding-bottom: 20px; padding-top: 20px; padding-left: 20px; padding-right: 20px" width="40%"><span style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #fff; line-height: 160%">HELP DESK<br />
+									SERVICE TICKET UPDATE<br />
+									NOTIFICATION </span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+						<table border="0" cellpadding="15" cellspacing="0">
+							<tbody>
+								<tr>
+									<td>
+									<table border="0" cellpadding="15" cellspacing="0" style="border-top: #ddd 1px solid; border-right: #ddd 1px solid; border-bottom: #ddd 1px solid; clear: both; border-left: #ddd 1px solid">
+										<tbody>
+											<tr>
+												<td bgcolor="#aaaaaa" colspan="2"><strong>PLEASE NOTE:</strong> If you need an immediate response please call us at <strong>844.OITVOIP</strong>. Calls may be recorded for quality assurance and training purposes.</td>
+											</tr>
+											<tr>
+											</tr>
+											<tr>
+												<td colspan="2">
+												<p>[timeentrynotes]</p>
+
+												<p>Regards,</p>
+
+												<p>[statuschangedfirstname]<br />
+												<span style="font-weight: bold; color: #e82b1d">Support Team</span><br />
+												<strong>OITVOIP</strong><br />
+												<strong>844.OITVOIP</strong><br />
+												<strong>support@oitvoip.com</strong></p>
+												</td>
+											</tr>
+											<tr>
+												<td>
+												<table cellpadding="0" cellspacing="0" width="100%">
+													<tbody>
+														<tr valign="top">
+															<td colspan="2">
+															<hr size="1" /></td>
+														</tr>
+														<tr valign="top">
+															<td colspan="2" style="font-weight: bold; color: #e82b1d"><strong>SERVICE TICKET DETAIL</strong></td>
+														</tr>
+														<tr valign="top">
+															<td width="35%">Ticket Number:</td>
+															<td width="65%">[srnumber]</td>
+														</tr>
+														<tr valign="top">
+															<td width="35%">Ticket Status:</td>
+															<td>[srstatus]</td>
+														</tr>
+														<tr valign="top">
+															<td width="35%">Ticket Summary:</td>
+															<td width="65%">[srsummary]</td>
+														</tr>
+														<tr valign="top">
+															<td colspan="2">
+															<hr size="1" /></td>
+														</tr>
+														<tr>
+															<td colspan="2" style="font-weight: bold; color: #e82b1d"><strong>ACCOUNT DETAIL</strong></td>
+														</tr>
+														<tr valign="top">
+															<td width="35%">Account Name:</td>
+															<td width="65%">[companyname]</td>
+														</tr>
+														<tr valign="top">
+															<td width="35%">Ticket Contact:</td>
+															<td width="65%">[contactfirstname] [contactlastname]</td>
+														</tr>
+														<tr valign="top">
+															<td colspan="2">
+															<hr size="1" /></td>
+														</tr>
+														<tr>
+															<td colspan="2" style="padding-bottom: 15px; padding-top: 15px; padding-left: 0px; padding-right: 0px">
+															<div style="text-align: center"><span class="style1">If you have any questions or wish to update information related to this ticket simply reply to this email or call the help desk support directly at 844.CALL.OIT<br />
+															Copyright 2018&nbsp;Orsini IT, LLC</span></div>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+</body>
+</html>
